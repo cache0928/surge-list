@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,zjitc.net
-DOMAIN,login.cnki.net
-DOMAIN,bar.cnki.net
 IP-CIDR,172.16.0.0/13,no-resolve
 # IP-CIDR,192.168.0.0/16,no-resolve
+# CNKI
+DOMAIN-SUFFIX,cnki.net
