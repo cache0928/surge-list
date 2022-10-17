@@ -2,4 +2,10 @@ DOMAIN-SUFFIX,zjitc.net
 IP-CIDR,172.16.0.0/13,no-resolve
 # IP-CIDR,192.168.0.0/16,no-resolve
 # CNKI
-DOMAIN-SUFFIX,cnki.net
+DOMAIN,login.cnki.net,ZJITC
+DOMAIN,kns.cnki.net,ZJITC
+DOMAIN,bianke.cnki.net,ZJITC
+DOMAIN,bar.cnki.net,ZJITC
+DOMAIN,track.cnki.net,ZJITC
+DOMAIN,kreader.cnki.net,ZJITC
+DOMAIN-SUFFIX,cnki.net,DIRECT
